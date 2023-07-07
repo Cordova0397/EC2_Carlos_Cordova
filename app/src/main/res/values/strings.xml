@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EC2_Carlos_Cordova</string>
+    <string name="MAPS_API_KEY" translatable="false">AIzaSyCLGAqTDMLPUHyhCnEJOcj6Auxf0CibLkQ</string>
+
+</resources>
